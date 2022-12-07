@@ -23,6 +23,7 @@ const Home: NextPage = () => {
 						alt="logo"
 						width={80}
 						height={80}
+            quality={10}
 						className="mx-auto rounded-md"
 					/>
 					<h3 className="text-white text-6xl font-poppins font-black uppercase mt-4 ">
