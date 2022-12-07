@@ -7,9 +7,9 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>VamVamTech - Home</title>
+        <title>Home - VamVamTech</title>
         <meta name="description" content="VamVamTech" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
       <div className="overflow-hidden h-screen">
         <div className="top-64 absolute left-1/2 -translate-x-1/2 w-screen">
