@@ -7,6 +7,7 @@ const SEO = () => {
 			<title>VamVamTech - Home</title>
 			<link rel="icon" href="/logo.png" />
 			<meta name="title" content="VamVamTech - Home" />
+            <meta name="keywords" content="vam vam tech, vamvamtech, vamvamtech.com, tech, myanmar, vam vam tech myanmar" />
 			<meta
 				name="description"
 				content="All-in-one tech solution with modern tech stacks by developers from Myanmar."
