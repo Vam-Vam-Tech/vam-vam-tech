@@ -5,6 +5,7 @@ const SEO = () => {
 	return (
 		<Head>
 			<title>VamVamTech - Home</title>
+			<link rel="icon" href="/logo.png" />
 			<meta name="title" content="VamVamTech - Home" />
 			<meta
 				name="description"
