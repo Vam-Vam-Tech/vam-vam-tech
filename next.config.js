@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+	unstable_runtimeJS: false,
 	reactStrictMode: true,
 	swcMinify: true,
 	webpack: (config, { isServer }) => {
