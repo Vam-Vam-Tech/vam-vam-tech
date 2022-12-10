@@ -23,7 +23,7 @@ const Home: NextPage = () => {
 						alt="logo"
 						width={80}
 						height={80}
-            quality={10}
+						quality={10}
 						className="mx-auto rounded-md"
 					/>
 					<h3 className="text-white text-6xl font-poppins font-black uppercase mt-4 ">
@@ -31,7 +31,7 @@ const Home: NextPage = () => {
 					</h3>
 					<div className=" mt-8 flex flex-row justify-center items-center space-x-4">
 						<button className="bg-[#fff] text-[#242424] px-4 py-3 border-l-8 border-[#D92B27] rounded-lg text-[14px] font-[700]">
-						<span className="text-[20px]">🥳</span> &nbsp;Follow our community
+							Follow our community
 						</button>
 						<button className="bg-[#D92B27] text-white px-4 py-2  rounded-lg text-[14px] font-[600] flex flex-row justify-center items-center gap-x-2">
 							<span className="text-[20px]">☕️</span> &nbsp;Buy me coffee
