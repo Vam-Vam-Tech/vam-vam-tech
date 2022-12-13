@@ -6,7 +6,7 @@ jobs:
       - image: arvindr226/alpine-ssh:latest
     steps:
       - checkout
-      - run: ssh -oStrictHostKeyChecking=no -v $USER@$IP "./getbak-final-deploy.sh"
+      - run: ssh -oStrictHostKeyChecking=no -v $USER@$IP "./vam-vam-tech-deploy.sh"
 
 workflows:
   build-project:
